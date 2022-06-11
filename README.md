@@ -3,16 +3,16 @@
 The proposed solution is to use Temperature and Humidity Sensors inside the storage cabinets of medicines. 
 •	These sensors will be linked to the air conditioning and dehumidifying system of the pharmacy using IoT Technology. 
 •	The Sensors will continually monitor the the temperature and humidity conditions inside the storage cabinets. 
-•	The system will then check whether the the current conditions are within the allowed parameters which have been set by pharmacy manager. 
-•	If there is a deviation in the temperature or humidity, the sytem will automatically adjust the air conditioning and humidifier to rectify the conditions and a notification will be sent to the manager. Once the conditions have been stabilized the air conditioning and humidifying sytem will be re- adjusted and the manager will receive another message stating that all parameters are normal. 
-•	If the conditions are not stabilized within a set time limit, the manager will receive a notification to manually go check the system. ( This is in case of a malfunction )
-COMPONENTS USED
+•	The system will then check whether the the current conditions are within the allowed parameters which have been set by pharmacy manager. \
+•	If there is a deviation in the temperature or humidity, the sytem will automatically adjust the air conditioning and humidifier to rectify the conditions and a notification will be sent to the manager. Once the conditions have been stabilized the air conditioning and humidifying sytem will be re- adjusted and the manager will receive another message stating that all parameters are normal. \
+•	If the conditions are not stabilized within a set time limit, the manager will receive a notification to manually go check the system. ( This is in case of a malfunction )\
+# COMPONENTS USED
 • Humidity and Temperature Sensor DHT11: 
 The DHT11 is a basic, ultra-low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air and spits out a digital signal on the data pin (no analog input pins needed). It’s simple to use but requires careful timing to grab data. DHT11 Temperature and Humidity Sensor features a calibrated digital signal output with the temperature and humidity sensor capability. It is integrated with a high-performance 8-bit microcontroller. 
-Its technology ensures the high reliability and excellent long-term stability. This sensor includes a resistive element and a sensor for wet NTC temperature measuring devices. 
+Its technology ensures the high reliability and excellent long-term stability. This sensor includes a resistive element and a sensor for wet NTC temperature measuring devices. \
 • Arduino Uno: 
 Arduino is a single-board microcontroller meant to make the application more accessible which are interactive objects and its surroundings. The hardware features with an open source hardware board designed around an 8-bit Atmel AVR microcontroller or a 32- bit Atmel ARM. 
-The Arduino Uno board is a microcontroller based on the ATmega328. It has 14 digital input/output pins in which 6 can be used as PWM outputs, a 16 MHz ceramic resonator, an ICSP header, a USB connection, 6 analog inputs, a power jack and a reset button. This contains all the required support needed for microcontroller.
+The Arduino Uno board is a microcontroller based on the ATmega328. It has 14 digital input/output pins in which 6 can be used as PWM outputs, a 16 MHz ceramic resonator, an ICSP header, a USB connection, 6 analog inputs, a power jack and a reset button. This contains all the required support needed for microcontroller. \
 • Wi-Fi Module ESP8266: 
 The ESP8266 is capable of either hosting an application or offloading all Wi-Fi networking functions from another application processor. Each ESP8266 module comes pre programmed with an AT command set firmware, meaning, you can simply hook this up to your Arduino device and get about as much WiFi-ability as a WiFi Shield offers. 
 The ESP8266 module is an extremely cost-effective board with a huge, and ever growing, community.
