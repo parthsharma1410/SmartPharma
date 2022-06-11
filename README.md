@@ -18,14 +18,14 @@ The ESP8266 is capable of either hosting an application or offloading all Wi-Fi 
 The ESP8266 module is an extremely cost-effective board with a huge, and ever growing, community.
 
 # Circuit Diagram
-![circuit](https://github.com/parthsharma1410/SmartPharma/public/ss5.png/?raw=true)
+![circuit](https://github.com/parthsharma1410/SmartPharma/blob/main/public/ss6.png)
 
 ## UI-Screenshots
 
-![cloud](https://github.com/parthsharma1410/SmartPharma/public/ss1.png/?raw=true)
-![home](https://github.com/parthsharma1410/SmartPharma/public/ss2.png/?raw=true)
-![temp](https://github.com/parthsharma1410/SmartPharma/public/ss3.png/?raw=true)
-![data](https://github.com/parthsharma1410/SmartPharma/public/ss4.png/?raw=true)
+![cloud](https://github.com/parthsharma1410/SmartPharma/blob/main/public/ss1.png)
+![home](https://github.com/parthsharma1410/SmartPharma/blob/main/public/ss2.png)
+![temp](https://github.com/parthsharma1410/SmartPharma/blob/main/public/ss3.png)
+![data](https://github.com/parthsharma1410/SmartPharma/blob/main/public/ss4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
