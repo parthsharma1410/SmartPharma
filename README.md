@@ -1,6 +1,6 @@
 # SmartPharma
 
-## The proposed solution is to use Temperature and Humidity Sensors inside the storage cabinets of medicines. 
+## The project uses Temperature and Humidity Sensors inside the storage cabinets of medicines. 
 •	These sensors will be linked to the air conditioning and dehumidifying system of the pharmacy using IoT Technology. \
 •	The Sensors will continually monitor the the temperature and humidity conditions inside the storage cabinets. \
 •	The system will then check whether the the current conditions are within the allowed parameters which have been set by pharmacy manager. \
